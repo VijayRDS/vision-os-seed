@@ -10,6 +10,8 @@ Vision OS is an open-source, modular operating system and runtime layer built ar
 3. **Unified Media & Web Layer:** Single lightweight shell unifying local and web media workflows without multi-tab bloat.
 4. **Feedback-Driven Self-Tuning:** Telemetry-guided profile optimization with immutable, roll-backable system layers.
 
+![Vision OS Adaptive Launcher](Screenshots/your-image-name.png)
+
 ## Quickstart (Seed Prototype)
 ```bash
 git clone [https://github.com/](https://github.com/)VijayRDS/vision-os-seed.git
