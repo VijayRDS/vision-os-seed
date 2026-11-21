@@ -13,13 +13,6 @@ Vision OS is an open-source, lightweight desktop environment and adaptive runtim
 - **Vision AI & Telemetry Loop:** Tracks session activity in `vision_telemetry.jsonl`, auto-tunes profile memory caps in `profiles.json`, and supports lightweight local + offloaded cloud/distributed compute routing.
 - **Bootable ISO Builder (`build_vision_iso.sh`):** Generates a bootable `.iso` image for VM testing or USB live booting without altering your Windows partition.
 
-## Quickstart
-```bash
-git clone [https://github.com/VijayRDS/vision-os-seed.git](https://github.com/VijayRDS/vision-os-seed.git)
-cd vision-os-seed
-python vision_os.py
-
----
 
 # Vision OS (Seed v0.1)
 
