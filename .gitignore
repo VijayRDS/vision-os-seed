@@ -1,0 +1,4 @@
+.vision_runtime/
+vision_telemetry.jsonl
+*.bak
+__pycache__/
