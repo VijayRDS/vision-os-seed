@@ -1,0 +1,23 @@
+{
+  "lite": {
+    "name": "Lite Surf (1960s Lean)",
+    "description": "Minimal RAM footprint. Blocks heavy scripts, animations, and background trackers.",
+    "max_memory_mb": 256,
+    "gpu_acceleration": false,
+    "flags": ["--disable-gpu", "--js-flags=--max-old-space-size=128", "--blink-settings=imagesEnabled=true"]
+  },
+  "media": {
+    "name": "Unified Media Deck",
+    "description": "Hardware-decoded audio/video pipeline optimized for YouTube, Spotify, JioSaavn, and streaming.",
+    "max_memory_mb": 768,
+    "gpu_acceleration": true,
+    "flags": ["--enable-gpu-rasterization", "--enable-zero-copy", "--autoplay-policy=no-user-gesture-required"]
+  },
+  "compute": {
+    "name": "2050 Heavy / WebGL / Compute",
+    "description": "Full hardware acceleration, multi-threaded workers, and expanded heap for games and heavy web apps.",
+    "max_memory_mb": 4096,
+    "gpu_acceleration": true,
+    "flags": ["--enable-webgl", "--ignore-gpu-blocklist", "--enable-features=WebAssemblyThreads"]
+  }
+}
