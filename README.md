@@ -12,6 +12,6 @@ Vision OS is an open-source, modular operating system and runtime layer built ar
 
 ## Quickstart (Seed Prototype)
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/vision-os-seed.git
+git clone [https://github.com/](https://github.com/)VijayRDS/vision-os-seed.git
 cd vision-os-seed
 python3 vision_launcher.py
