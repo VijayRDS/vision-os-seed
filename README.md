@@ -22,7 +22,9 @@ cd vision-os-seed
 python3 vision_launcher.py
 
 
-##
+---
+
+
 # Vision OS (v0.2)
 
 **Lean 1960s Core Philosophy. Adaptive 2050 Execution & Hybrid Compute.**
